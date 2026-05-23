@@ -1,4 +1,4 @@
-To run:
+To run (without docker):
 ->Install univcorn and fastapi using pip
 ->On one terminal run uvicorn main:app --reload, keep it open
 ->Open another terminal. If using a Windows machine run Remove-Item alias:curl
